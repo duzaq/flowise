@@ -12,12 +12,12 @@ services:
      - flowise_data:/root/.flowise
     environment:
      - FLOWISE_USERNAME=admin
-     - FLOWISE_PASSWORD=Mfcd62!!Mfcd62!!
+     - FLOWISE_PASSWORD=10Mega2013
      - DATABASE_TYPE=postgres
      - DATABASE_HOST=postgres
      - DATABASE_PORT=5432
      - DATABASE_USER=postgres
-     - DATABASE_PASSWORD=Mfcd62!!Mfcd62!!
+     - DATABASE_PASSWORD=YsPcRGHkWLRREResuZjlobBSmoTKSnsR
      - DATABASE_NAME=flowise
      - FLOWISE_SECRETKEY_OVERWRITE=vwV94rdf4RdwEdffd0vZp2hf6
     deploy:
