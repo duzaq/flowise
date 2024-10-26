@@ -14,10 +14,10 @@ services:
      - FLOWISE_USERNAME=admin
      - FLOWISE_PASSWORD=10Mega2013
      - DATABASE_TYPE=postgres
-     - DATABASE_HOST=autorack.proxy.rlwy.net
+     - DATABASE_HOST=
      - DATABASE_PORT=44652
      - DATABASE_USER=postgres
-     - DATABASE_PASSWORD=YsPcRGHkWLRREResuZjlobBSmoTKSnsR
+     - DATABASE_PASSWORD=
      - DATABASE_NAME=flowise
      - FLOWISE_SECRETKEY_OVERWRITE=vwV94rdf4RdwEdffd0vZp2hf6
     deploy:
